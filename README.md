@@ -13,6 +13,6 @@ the lm-output directory. E.g. lm-outputs/defsCT/defsCT_325-mistral_large .
 5. That's it. If you experiment with useful prompts, put them into the
 prompts directory. If you have more raw/big inputs, put them
 (compressed) into raw-big. Then create a subdirectory in lm-inputs and
-splut it into small chunks (50 lines seems ok for Mistral Large)
+split it into small chunks (50 lines seems ok for Mistral Large)
 e.g. like this:
 ```split -l 50 -a 3 -d definitions-CT-all.txt defsCT_```
