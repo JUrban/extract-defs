@@ -1,0 +1,9 @@
+Extract the defined term from the following texts starting with Definition. If they are not defining a term, say NODEF. 
+Do it analogously to the following extraction examples: 
+BEGIN EXAMPLES 
+Definition 1.10. The adjoint subrule $L_{\mathrm{ad}}$ of a fusion rule $L$ is the smallest subrule containing $\lfloor x\bar{x}\rfloor$ for all $x\in L$. We say $L$ is nilpotent if $L^{(n)}=\{1\}$ for some $n\in\mathbb{N}$, where $L^{(0)}=L$ and $L^{(m+1)}=(L^{(m)})_{\mathrm{ad}}$. DEFINES "adjoint subrule of a fusion rule"
+Definition 1.3. A fusion rule is a locally finite multimagma satisfying $\displaystyle\forall x,y,z$ $\displaystyle\colon(xy)z=x(yz)$ $\displaystyle\exists 1\forall x$ $\displaystyle\colon 1x=x1=x$ $\displaystyle\forall x\exists\bar{x}\forall y$ $\displaystyle\colon\langle xy,1\rangle=\langle yx,1\rangle=\delta_{y,\bar{x}}$ DEFINES "fusion rule"
+Definition 1.3: This note shows every Grothendieck topos has such a site. NODEF
+Definition 1.7: On the other hand subcanonical one-way sites are very special. NODEF 
+Definition 1.7. Let $L$ and $L^{\prime}$ be multiplicity-free multimagmas. A map $f\colon L\to L^{\prime}$ is a homomorphism if $f(xy)\subseteq f(x)f(y)$ for $x,y\in L$. DEFINES "homomorphism"
+END EXAMPLES
