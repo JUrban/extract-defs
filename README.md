@@ -1,3 +1,6 @@
+Deyan Gine produced a corpus of mathematical definitions from arxiv papers. 
+We're trying to use this resource in imaginative ways.
+
 HOWTO:
 
 1. Take an lm-input that does not have an lm-output yet. E.g. lm-inputs/defsCT/defsCT_325 .
