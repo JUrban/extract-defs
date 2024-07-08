@@ -1,4 +1,4 @@
-Deyan Gine produced a corpus of mathematical definitions from arxiv papers. 
+Deyan Ginev produced a corpus of mathematical definitions from arxiv papers. 
 We're trying to use this resource in imaginative ways.
 
 HOWTO:
